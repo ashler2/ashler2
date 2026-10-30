@@ -43,7 +43,7 @@ There's more about me over at [coded-4.co.uk](https://coded-4.co.uk).
 
 | Project | What it is |
 |---|---|
-| **[Verify](https://verify.coded-4.co.uk)** | A QA tool for testing tickets. I built it after years of doing testing by hand and wanting something better. |
+| **Verify** | A QA tool for testing tickets. I built it after years of doing testing by hand and wanting something better. |
 | **Hexbrew** | An arena action game for iPhone and iPad, made in Godot and out now on the App Store. |
 | **TradeFlow** | Job management for UK tradespeople, so they can spend less time on paperwork. |
 | **PlanIt** | A meal planning app for iOS and Android. |
