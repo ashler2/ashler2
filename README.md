@@ -6,6 +6,8 @@ Before I got deep into code I spent a lot of time in product and testing, and it
 
 At the moment I'm working on fintech and asset finance platforms. I also run **Shock Creative**, a small design and development studio, and I've got a habit of starting side projects. A few of them even get finished.
 
+Most of my day job lives in private repos, but I'm always happy to talk about it.
+
 There's more about me over at [coded-4.co.uk](https://coded-4.co.uk).
 
 ---
@@ -36,20 +38,6 @@ There's more about me over at [coded-4.co.uk](https://coded-4.co.uk).
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-
----
-
-### A few things I've made
-
-| Project | What it is |
-|---|---|
-| **Verify** | A QA tool for testing tickets. I built it after years of doing testing by hand and wanting something better. |
-| **Hexbrew** | An arena action game for iPhone and iPad, made in Godot and out now on the App Store. |
-| **TradeFlow** | Job management for UK tradespeople, so they can spend less time on paperwork. |
-| **PlanIt** | A meal planning app for iOS and Android. |
-| **[AJ-Utils](https://github.com/ashler2/AJ-Utils)** | A little npm package of JavaScript helpers I kept rewriting, so I bundled them up. |
-
-Most of my day job lives in private repos, but I'm always happy to talk about it.
 
 ---
 
